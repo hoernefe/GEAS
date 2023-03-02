@@ -1,5 +1,5 @@
-#GEAS
-**A mobile sensor platform for big scale collection of geodata.**
+# GEAS
+** A mobile sensor platform for big scale collection of geodata. **
 
 The Geodata Acquisition and Analysis System aims to develop a mobile system that enables large-scale and efficient collection of geodata. The collected data should be presented in a clear and insightful way to draw conclusions for sustainable and health-oriented urban development optimization.
 
