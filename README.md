@@ -13,6 +13,8 @@ For the Dtabased we used a phpMyAdmin server which is very similar to MySQL. Any
 
 The structe we used is the following:
 ![](/pictures/database_structure.JPG)
+(Breitengrad is german for latitude and Langengrad means longitude)
+
 ## Analysis
 
 In the 
