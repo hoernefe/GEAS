@@ -9,7 +9,7 @@ One successful application of this system was a measurement campaign on the topi
 The geodata acquisition and analysis system has multiple use cases and enables decision-making based on sound data for sustainable and health-oriented urban development.
 
 ## Database
-For the Dtabased we used a phpMy Admin server which is verx simila to MySQL. Any SQL basedsystem should do the trick.
+For the Dtabased we used a phpMyAdmin server which is very similar to MySQL. Any SQL basedsystem should do the trick.
 
 ## Analysis
 
