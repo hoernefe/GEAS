@@ -11,6 +11,8 @@ The geodata acquisition and analysis system has multiple use cases and enables d
 ## Database
 For the Dtabased we used a phpMyAdmin server which is very similar to MySQL. Any SQL basedsystem should do the trick.
 
+The structe we used is the following:
+![This is an image](/pictures/database_structure.JPG)
 ## Analysis
 
 In the 
