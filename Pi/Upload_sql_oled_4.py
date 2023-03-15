@@ -12,7 +12,7 @@ from PIL import ImageFont
 
 datenDesWetters = [0,0,0,0,0,0]
 
-print("Upload_sql_oled_2.py wurde gestartet (das ist eine nachrich, die ich [Felix] ins Proragramm geschriben habe)")
+print("Upload_sql_oled_4.py wurde gestartet (das ist eine nachrich, die ich ins Proragramm geschriben habe)")
 
 i2cbus = SMBus(1)
 oled = ssd1306(i2cbus)
@@ -63,6 +63,7 @@ oled.display()
 
 time.sleep(2)
 
+#enter your data for the server
 mydb = mysql.connector.connect(
   host="enter host",
   user="enter user",
@@ -130,6 +131,7 @@ def cmd_query_data():
     return values
 
 
+#getting the weatherdata from openweathermap
 def wetterdaten():
     import urllib
     import time
@@ -252,6 +254,8 @@ anzahl = 0
 
 t0 = time.time()
 
+
+#when all data is available it is sen to the server and a massage is displayed on the oled
 while True:
 
     t1 = time.time()
