@@ -10,9 +10,9 @@ The geodata acquisition and analysis system has multiple use cases and enables d
 ## Sensor platform
 In every sensor box has a Raspberry Pi is build in. On This Pi the Code from the folder labeld Pi is running. All used libraries have to be installed. For thosw which weren't already pip wasused for the installation. The font-files from the oled library had some problems, but we were able to fixx these by putting our ode inside it's folder. To automatically start everything we added the following at the end of the bashrc file:
 
-**echo Running at boot
+echo Running at boot
 python /home/pi/lib_oled96/Upload_sql_oled_4.py> out.txt 2> err.txt &
-python /home/pi/lib_oled96/auto_shutdown.py > out2.txt 2> err2.txt &**
+python /home/pi/lib_oled96/auto_shutdown.py > out2.txt 2> err2.txt &
 
 
 ## Database
