@@ -8,6 +8,12 @@ One successful application of this system was a data collection campaign on the 
 The geodata acquisition and analysis system has multiple use cases and enables decision-making based on sound data for sustainable and health-oriented urban development.
 
 ## Sensor platform
+In every sensor box has a Raspberry Pi is build in. On This Pi the Code from the folder labeld Pi is running. All used libraries have to be installed. For thosw which weren't already pip wasused for the installation. The font-files from the oled library had some problems, but we were able to fixx these by putting our ode inside it's folder. To automatically start everything we added the following at the end of the bashrc file:
+
+**echo Running at boot
+python /home/pi/lib_oled96/Upload_sql_oled_4.py> out.txt 2> err.txt &
+python /home/pi/lib_oled96/auto_shutdown.py > out2.txt 2> err2.txt &**
+
 
 ## Database
 For the database we used a phpMyAdmin server, which is very similar to MySQL. Any SQL-based system should do the trick.
