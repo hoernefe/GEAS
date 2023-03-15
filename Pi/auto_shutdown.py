@@ -22,6 +22,8 @@ GPIO.setup(16, GPIO.OUT)
 
 GPIO.output(16, False)
 
+#The GPIO pinis used to communicate between the two programms. We know this is ugly and multithreading would have made it way easier, but it works for V1. V2 will be better
+
 print("LOW")
 
 while True:
