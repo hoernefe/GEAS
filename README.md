@@ -104,3 +104,6 @@ Begin data collection by activating the rocker switch, end session by first pres
 ## Wiring
 The power distribution works as seen here:
 ![](/pictures/wiring.jpeg)
+
+Soldering diagram:
+![](/pictures/Soldering.jpeg)
