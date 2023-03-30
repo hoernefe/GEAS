@@ -102,5 +102,5 @@ Begin data collection by activating the rocker switch, end session by first pres
 
 
 ## Wiring
-The powerdistribution works as seen here:
+The power distribution works as seen here:
 ![](/pictures/wiring.jpeg)
