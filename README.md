@@ -71,17 +71,31 @@ Hot glue
 
 ## Instructions
 Print casing, intermediate floor and sensor opening filter with 1,75mm PLA filament 
+
 Mount filter on sensor opening (heat to attach) and place sensor into designated space 
+
 Solder wires as shown on the soldering diagram. 
+
 Cut and solder angled USB cable as shown on soldering diagram. 
+
 Connect angled USB cable to power bank and place into designated spot, load SIM-card into SIM-Router and place into designated spot, cover with intermediate floor, feed the ends of soldered USB cable through the hole in the middle 
+
 Screw Raspberry Pi Zero onto intermediate floor, connect the original Micro-USB end to power input 
+
 Connect remaining Micro-USB end to the SIM-Router below 
+
 Screw GPS-Module into place, connect to Raspberry Pi with the soldered cables, tape antenna onto back wall of the top part, cut a small hole into the side of the top for the antenna cable 
+
 Connect Sensor to Raspberry Pi via the included adapter 
+
 Glue plexiglass into designated hole in the top, glue OLED-display underneath, connect to Raspberry Pi with soldered cables 
+
 Place rocker switch into hole next to “power” in the top, connect to Raspberry Pi with the soldered cables 
+
 Place NO-Button into hole next to “eco” in the top, connect to the cut cable from step 4 
+
 Load Program onto SD-Card, load into Raspberry Pi 
+
 Close module by screwing top onto bottom 
+
 Begin data collection by activating the rocker switch, end session by first pressing the “eco”-Button until the display reads “Ausschalten”, only then turn off the module via the rocker switch. 
