@@ -28,24 +28,43 @@ Currently the interface is in German, but we're working on an English version fo
 
 ## Parts
 1x Raspberry Pi Zero WH 
+
 1x Raspberry Pi heatsink 
+
 1x 16gb SD-Card 
+
 1x SDS011 PM Sensor 
+
 1x Neo6m GPS-Module 
+
 1x GPS-Antenna 
+
 1x Huawei E5576-320 SIM-Router 
+
 1x SIM-Card  
+
 1x Anker Powercore 1000mAh power bank 
+
 1x 90-degree angled USB-A to Micro-USB cable 
+
 1x 0,96in i2c OLED-Display 
+
 1x Small plexiglass sheet 
+
 1x On-Off Rocker switch 
+
 1x NO Push-Button 
+
 12x M3 Nylon Nuts + Bolts 
+
 Wires for soldering 
+
 Heat-Shrink tubing  
+
 Double sided tape 
+
 Hot glue 
+
 1x Bike mount (https://www.amazon.de/Rixen-Kaul-KlickFix-Bottlefix-Flaschenhalter/dp/B07498GS82) 
 
  
