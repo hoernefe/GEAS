@@ -99,3 +99,8 @@ Load Program onto SD-Card, load into Raspberry Pi
 Close module by screwing top onto bottom 
 
 Begin data collection by activating the rocker switch, end session by first pressing the “eco”-Button until the display reads “Ausschalten”, only then turn off the module via the rocker switch. 
+
+
+## Wiring
+The powerdistribution works as seen here:
+![](/pictures/wiring.jpeg)
